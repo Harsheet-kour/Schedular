@@ -1,0 +1,4 @@
+2021-12-23 17:51:34,813 INFO o.s.b.StartupInfoLogger [main] Starting ConsumingRestApplicationTests using Java 1.8.0_291 on LON-LOSX-HK341A.local with PID 52097 (started by harsheet.kour in /Users/harsheet.kour/IdeaProjects/Python/FinalWorkspace/initial)
+2021-12-23 17:51:34,827 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-12-23 17:51:37,032 INFO o.s.b.StartupInfoLogger [main] Started ConsumingRestApplicationTests in 2.582 seconds (JVM running for 4.357)
+2021-12-23 17:51:37,098 INFO c.e.c.ConsumingRestApplication [scheduling-1] Magnificent!
